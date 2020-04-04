@@ -1,0 +1,29 @@
+_repo: Poems-by-Speranza_61742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilde, Lady
+    aliases:
+    - Wilde, Francesca Speranza, Lady
+    - Wilde, Jane Francesca Elgee, Lady
+    - Speranza
+    - Ellis, John Fanshawe
+    - Wilde, Jane Francesca Agnes
+    birthdate: 1821
+    deathdate: 1896
+    gutenberg_agent_id: '51427'
+    url: http://www.gutenberg.org/2009/agents/51427
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Wilde
+description: ''
+gutenberg_issued: '2020-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Poems by Speranza
+url: http://www.gutenberg.org/ebooks/61742
